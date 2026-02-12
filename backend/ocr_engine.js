@@ -1,7 +1,7 @@
 import ollama from "ollama";
 
 // Configuration
-const OLLAMA_MODEL = "qwen2.5vl:7b";
+const OLLAMA_MODEL = "glm-ocr";
 
 class OCREngine {
 	constructor() {
